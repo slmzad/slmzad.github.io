@@ -1,0 +1,65 @@
+header 	(menu navigation contenant une balise de hyperlien <a> pour chaque section)
+
+	E²/Sterput
+	À propos
+	Caroline Sury
+	Contact
+
+Main	(contenu principal du site web
+
+	Section : E²/Sterput	(page d'accueil du site web)
+
+		Titre : 	E²/Sterput - Galerie d'art associative
+				Caroline Sury
+		Informations :	Exposition du 18 septembre au 14 octobre 2025
+				Vernissage le 17 septembre, de 18h à 21h
+
+	Section : À propos	(page présentant la galerie E²/Sterput)
+
+		Titre :		À propos
+
+		Texte :		Projet artistique associatif créé en 2013 et installé à Bruxelles dans un lieu dénommé le Sterput, l’asbl E² organise expositions, ateliers créatifs, focus sur la micro-édition, et autres manifestations culturelles tout au long de l’année. Espace de rencontre et de diffusion d’artistes émergent·es et confirmé·es venu·es de tous horizons, le Sterput promeut un art contemporain alternatif et hors normes. Le projet E² propose une vision de l’art différente, brute et aiguisée, mais aussi populaire et accessible, en visant l’accès à la culture pour toutes et tous. Art figuratif non conforme et singulier, le Sterput croit en la puissance émotionnelle des images.
+
+L’asbl E² s’exprime également à travers l’édition de livres d’artistes imprimés et façonnés à la main à Bruxelles en série limitée. Un ouvrage est publié à l’occasion de chaque exposition. L’espace librairie du Sterput présente quant à lui une fine sélection de créations artistiques variées : zines, livres, affiches…
+
+Basée sur un fonctionnement associatif non-lucratif, l’asbl E² est composée d’une équipe de bénévoles œuvrant pour une économie locale, respectueuse, solidaire et collaborative. Le Sterput est l’espace d’exposition et de distribution de l’asbl E², ouvert du vendredi au dimanche, et le jeudi uniquement pour les vernissages à la Place du Jeu de Balle 68, 1000 Bruxelles.
+
+		Image :		Photo de la galerie
+
+	Section : Caroline Sury	(page présentant l'artiste et son travail)
+
+		Titre : 	Caroline Sury
+
+	Sous	Titre :		« Je dessine ce que le monde voudrait voir disparaître. » – C.S.
+
+		Texte : 	Le Sterput accueille Caroline Sury pour une exposition coup-de-poing intitulée NO BODY RULES, du 18 septembre au 14 octobre 2025.
+Caroline Sury est une figure majeure de la scène graphique alternative, cofondatrice de L’Association et activiste visuelle infatigable. Avec ses encres noires, ses silhouettes libres et ses récits sans concession, elle creuse les marges — intimes, sociales, sexuelles — et donne une voix aux corps oubliés. Son œuvre, radicale et sensible, est une clameur graphique contre les normes et les silences.
+
+		Image :		Sélection de 4 œuvres de Caroline Sury
+
+	Section : Contact	(page contenant les coordonnées de la galerie E²/Sterput)
+
+		Titre :		Contact
+
+	Sous	Titre :		Sterput [ASBL E²]
+		
+		Texte :	
+				Place du Jeu de Balle 68
+				1000 - Bruxelles
+				info@sterput.org
+
+	Sous	Titre :		Horaire
+
+		Texte :		Vendredi, samedi et dimanche de 11h à 18h
+				Jeudi 18h-21h uniquement pour les vernissages
+				Et aussi sur rendez-vous
+				Voir agenda
+
+	Sous	Titre :		Follow
+
+		Image :		Logo facebook avec lien de leur page
+				Logo Instagram avec lien de leur page
+
+	Sous	Titre :		Soutien
+
+		Texte :		Avec le soutien de la COCOF, de la Ville de Bruxelles et de la FWB
